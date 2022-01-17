@@ -1,1 +1,1 @@
-# English_Amharic-Augmented-corpus
+# English-Amharic-Augmented-corpus
